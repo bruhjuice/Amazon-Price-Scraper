@@ -10,9 +10,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [a](b)
-* []()
-* []()
+* [Python]
+* [Requests-HTML Library]
+* [smtplib Library]
 
 
 
@@ -56,4 +56,4 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Max Li - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Max Li - maxli9132@gmail.com
