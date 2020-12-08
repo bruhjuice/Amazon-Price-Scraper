@@ -10,9 +10,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [Python]
-* [Requests-HTML Library]
-* [smtplib Library]
+* Python
+* Requests-HTML Library
+* smtplib Library
 
 
 
