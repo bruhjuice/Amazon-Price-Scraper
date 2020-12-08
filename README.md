@@ -1,1 +1,1 @@
-# Amazon-Scraper-copy
+# Amazon Price Scraper
