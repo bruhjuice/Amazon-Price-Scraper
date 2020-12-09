@@ -2,7 +2,7 @@
 ## About The Project
 
 Python program that scrapes Amazon price data and alerts the user through email if their speicifed item's price falls. <br />
-In 2020, Amazon updated their site and the Requests + BeautifulSoup libraries no longer work for scraping site data
+In 2020, Amazon updated their site and the Requests + BeautifulSoup libraries no longer work for scraping site data.
 However, the Requests-HTML library was one of the methods that I found to work as of December 2020. 
 
 
@@ -21,10 +21,10 @@ To get a local copy running follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+This is an example of install necessary libraries
+* np
   ```sh
-  npm install npm@latest -g
+  pip install npm@latest -g
   ```
 
 ### Installation
