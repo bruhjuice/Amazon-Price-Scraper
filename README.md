@@ -43,9 +43,7 @@ After installation, find URL of the desired Amazon product, and store it in URL 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-Program will continue to scan the desired product every 10 minutes
+Program will continue to scan the desired product every 10 minutes, outputting the time and the title/current price of the item. 
 
 <img width="582" alt="Screen Shot 2020-12-09 at 12 53 14 PM" src="https://user-images.githubusercontent.com/69620469/101686449-ed062e80-3a1d-11eb-8a42-b5d8fde8dd15.png">
 
