@@ -45,6 +45,7 @@ This is an example of install necessary libraries
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+<img width="576" alt="Screen Shot 2020-12-08 at 8 36 53 PM" src="https://user-images.githubusercontent.com/69620469/101585938-a836b500-3995-11eb-9e06-736057b73e53.png">
 
 
 
