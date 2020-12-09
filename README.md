@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Python program that scrapes Amazon price data and alerts the user through email if their speicifed item's price falls.
+Python program that scrapes Amazon price data and alerts the user through email if their speicifed item's price falls. <br />
 In 2020, Amazon updated their site and the Requests + BeautifulSoup libraries no longer work for scraping site data
 However, the Requests-HTML library was one of the methods that I found to work as of December 2020. 
 
