@@ -22,11 +22,11 @@ To get a local copy running follow these steps.
 ### Prerequisites
 
 Install Requests-HTML library
-* piip
   ```sh
   pip install requests-html
   ```
-
+<br />
+Find URL of the desired Amazon product, and store it in URL variable. Also change sender/reciever email as needed.
 ### Installation
 
 1. Clone the repo
