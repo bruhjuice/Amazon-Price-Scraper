@@ -25,8 +25,6 @@ Install Requests-HTML library
   ```sh
   pip install requests-html
   ```
-<br />
-Find URL of the desired Amazon product, and store it in URL variable. Also change sender/reciever email as needed.
 
 ### Installation
 
@@ -39,7 +37,8 @@ Find URL of the desired Amazon product, and store it in URL variable. Also chang
    npm install
    ```
 
-
+<br />
+After installation, find URL of the desired Amazon product, and store it in URL variable. Also change sender/reciever email as needed.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
