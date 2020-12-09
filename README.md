@@ -33,10 +33,6 @@ Install Requests-HTML library
    ```sh
    git clone https://github.com/bruhjuice/Amazon-Price-Scraper.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
 
 <br />
 After installation, find URL of the desired Amazon product, and store it in URL variable. Also change sender/reciever email as needed.
