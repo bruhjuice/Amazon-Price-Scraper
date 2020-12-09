@@ -21,10 +21,10 @@ To get a local copy running follow these steps.
 
 ### Prerequisites
 
-This is an example of install necessary libraries
-* np
+Install Requests-HTML library
+* piip
   ```sh
-  pip install npm@latest -g
+  pip install requests-html
   ```
 
 ### Installation
