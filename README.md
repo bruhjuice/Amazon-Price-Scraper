@@ -49,6 +49,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <img width="1410" alt="Screen Shot 2020-12-08 at 8 38 03 PM" src="https://user-images.githubusercontent.com/69620469/101686319-be885380-3a1d-11eb-9379-7e7cfb70be4e.png">
 
+<img width="582" alt="Screen Shot 2020-12-09 at 12 53 14 PM" src="https://user-images.githubusercontent.com/69620469/101686449-ed062e80-3a1d-11eb-8a42-b5d8fde8dd15.png">
 
 
 
